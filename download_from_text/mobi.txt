@@ -1,0 +1,3298 @@
+
+
+<!DOCTYPE HTML><html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+
+
+            <title> kindle电子书之古典文学篇 - iPhone资源区 -  威锋论坛 - 威锋网    </title>
+            <meta name="keywords" content="kindle电子书之古典文学篇" />
+            <meta name="description" content="kindle电子书之古典文学篇    感觉好的话记得加下分顶下哇嫌一个个下载麻烦的附百度云链接：http://pan.baidu.com/s/1hqKRUXQ[/backcolor] kindle电子书之古典文学篇 ,威锋论坛" />
+
+    <link href="https://bbs.feng.com/read-htm-tid-9062785.html" rel="canonical" />     <base href="https://bbs.feng.com/" />
+    <link rel="stylesheet" type="text/css" href="data/cache/style_5_common.css?oBc" /><link rel="stylesheet" type="text/css" href="data/cache/style_5_forum_viewthread.css?oBc" />    <script src="/bbs_v4/js/jquery.min.js?oBc" type="text/javascript"></script>
+
+    <script type="text/javascript">var STYLEID = '5', STATIC_DIR = '/bbs_v4/', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'oBc', charset = 'utf-8', discuz_uid = '0', cookiepre = 'xIka_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = '', creditnotice = '', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5mZW5nLmNvbS9yZWFkLWh0bS10aWQtOTA2Mjc4NS5odG1s', SITEURL = 'https://bbs.feng.com/', JSPATH = 'static/js/', DYNAMICURL = '';
+    jQuery.noConflict().ajaxSetup({ cache: true });
+    </script>
+    <script src="/bbs_v4/js/common.js?oBc" type="text/javascript"></script>
+
+<link rel="apple-touch-icon" href="./source/plugin/feng_mobile/template/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./source/plugin/feng_mobile/template/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./source/plugin/feng_mobile/template/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./source/plugin/feng_mobile/template/images/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon-precomposed" href="./source/plugin/feng_mobile/template/images/touch-icon-ipad-retina.png"/>
+<meta name="apple-itunes-app" content="app-id=981437434, app-argument=https://bbs.feng.com/forum.php?mod=viewthread&tid=9062785&extra=page%3D&page=1"><meta name="application-name" content="威锋论坛" />
+<meta name="msapplication-tooltip" content="威锋论坛" />
+<meta name="baidu_union_verify" content="79cdba5b613780d43efdc6dee25483a6">
+<meta name="msapplication-task" content="name=;action-uri=https://bbs.feng.com/portal.php;icon-uri=http://bbs.feng.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.feng.com/forum.php;icon-uri=http://bbs.feng.com/static/image/common/bbs.ico" />
+    <link rel="archives" title="威锋论坛" href="https://bbs.feng.com/archiver/" />
+    <script src="static/js/forum.js?oBc" type="text/javascript"></script>
+<script type="text/javascript">
+    //!function(e,t,n,g,i){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},n=t.createElement("script"),tag=t.getElementsByTagName("script")[0],n.async=1,n.src=('https:'==document.location.protocol?'https://':'http://')+g,tag.parentNode.insertBefore(n,tag)}(window,document,"script","assets.growingio.com/2.1/gio.js","gio");
+    //gio('init', 'b1d53abfc5dd464b', {});
+    //gio('send');
+</script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread">
+<style>
+.switch_btn{width:46px;margin:10px 0;background:#fcc;font-size:0;margin-left:498px;position:fixed;left:50%;bottom:85px;z-index:9;cursor:pointer;background:#b5b5b9;background:rgba(0,0,0,.3);border-radius:3px;padding:11px 0;-webkit-transition:background linear .28s;-moz-transition:background linear .28s;-ms-transition:background linear .28s;transition:background linear .28s}
+.switch_btn_d{right:12px;left:auto;}
+.switch_btn:hover{background:#717171}
+.switch_btn a{display:inline-block;display:block;height:24px;width:24px;margin:0 auto}
+.switch_btn a img{width:100%}
+</style>
+<div class="switch_btn "  id="switchwidth">
+    <a href="javascript:/*宽屏/窄屏*/;">切换屏幕<img src="/bbs_v4/images/ic_enlarge.png" alt=""></a>
+</div>
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+
+
+
+                            <div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div>
+
+    <!-- Header -->
+    <div class="xin_global_topbar_wrap">
+
+
+        <div id="xin_global_topbar" class="xin_global_topbar">
+            <div id="input1" class="wrap dingwei">
+                <a href='https://yes1.feng.com/click.php?n=a2b2478b&zoneid=241'  class="logo"><img src='https://yes1.feng.com/view.php?what=zone:241&n=a2b2478b'></a>
+                <div class="topbarBox">
+                    <div class="form-input">
+                        <form class="form-submit" action="https://s.feng.com/search.php" method="get"> <span class="searchBtn"><i></i></span> <input type="text" name="srchtxt" class="open" placeholder="搜索关键字"> <input type="hidden" name="srchmod" value="all"> <button type="submit" class="enter open"><i></i></button> </form>
+                    </div>
+                    <div class="server clearfix">
+                                                                                    <ul class="sign_btn">
+                                    <li><a href="/member.php?mod=logging&amp;action=login" id="user_login" class="login">登录</a></li>
+                                    <li><a href="/member.php?mod=register" class="register">注册</a></li>
+                                                                    </ul>
+
+
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div id="xin_global_nav" class="xin_global_nav">
+            <div class="wrap dingwei">
+                <ul class="nav_list">
+                    <li class="drop_li">
+                        <a href="https://www.feng.com/">首页</a>
+                    </li>
+                    <li class="drop_li zixun">
+                        <a href="https://news.feng.com/">资讯<em></em></a>
+                        <ul class="drop_list"> <em><i></i></em>
+                            <li>
+                                <a href="https://news.feng.com/">新闻</a>
+                            </li>
+                            <li>
+                                <a href="https://tech.feng.com/">科技</a>
+                            </li>
+                            <li>
+                                <a href="https://www.feng.com/view/">观点</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="drop_li">
+                        <a href="/" class="active">论坛</a>
+                    </li>
+                    <li class="drop_li">
+                        <a href="javascript:;">苹果工具<em></em></a>
+                        <ul class="drop_list"> <em><i></i></em>
+                            <li>
+                                <a href="https://act.feng.com/wetools/index.php?r=appleinfo/index">苹果产品信息查询</a>
+                            </li>
+                            <li>
+                                <a href="https://act.feng.com/wetools/index.php?r=iosRom/index">iOS固件下载</a>
+                            </li>
+                            <li>
+                                <a href="https://act.feng.com/wetools/index.php?r=iosJailbreak/index">越狱工具中心</a>
+                            </li>
+                            <!--<li>
+                                <a href="http://www.wefinder.com/">威锋密保</a>
+                            </li>-->
+                            <!--<li>
+                                <a href="https://apt.feng.com/">威锋源</a>
+                            </li>-->
+                        </ul>
+                    </li>
+                    <li class="jiaoyi drop_li">
+                        <a href="javascript:;">交易<em></em></a>
+                        <ul class="drop_list"> <em><i></i></em>
+                            <li>
+                                <a target="_blank" href="https://weip.taobao.com/">官方店铺</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://www.58yiji.com/?feng-pc">二手交易</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://aos.prf.hn/click/camref:1101l38LJ/destination:https://www.apple.com/cn-k12/shop/go/back_to_school">苹果教育优惠</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="drop_li">
+                        <a href="javascript:;">手机威锋<em></em></a>
+                        <ul class="drop_list"> <em><i></i></em>
+                            <li class="icon">
+                                <a href="https://www.feng.com/app/"><b class="feng_icon"></b>威锋客户端</a>
+                            </li>
+                            <li><span>用微信扫我</span><img src="/bbs_v4/images/fengCode.jpg"/></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="nav_search clearfix">
+                    <div class="form-input">
+                        <form class="form-submit" action="https://s.feng.com/search.php" method="get"> <span class="searchBtn"><i></i></span> <input type="text" name="srchtxt" class="open" placeholder="搜索关键字"> <input type="hidden" name="srchmod" value="all"> <button type="submit" class="enter open"><i></i></button> </form>
+                    </div>
+                    <div class="server clearfix">
+                                                                                    <ul class="sign_btn">
+                                    <li><a href="/member.php?mod=register" class="register">注册</a></li>
+                                                                    </ul>
+
+                                                                                                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Services -->
+    <div class="wrap quick_services">
+        <ul class="user_links">
+            <li class="my"><a href="home.php?mod=space&amp;uid=0"><i class="user"><b></b></i>我的威锋</a></li>
+            <li><a href="forum.php?mod=guide&amp;view=my"><i class="subject"><b></b></i>主题</a></li>
+            <li><a href="forum.php?mod=guide&amp;view=my&amp;type=reply"><i class="reply"><b></b></i>回复</a></li>
+            <li><a href="home.php?mod=space&amp;do=favorite&amp;view=me"><i class="fav"><b></b></i>收藏</a></li>
+            <!--<li><a href="home.php?mod=space&amp;do=friend"><i class="friend"><b></b></i>好友</a></li>-->
+            <li><a href="forum.php?mod=guide&amp;view=comm"><i class="newscommon"><b></b></i>评论</a></li>
+            <!--<li><a href="plugin.php?id=trends&amp;square=square"><i class="doing"><b></b></i>动态</a></li>-->
+            <li class="hide"><a href="#"><i class="mark"><b></b></i>书签</a></li>
+        </ul>
+        <ul class="links">
+            <!-- <li><a href="userapp.php">社区应用</a></li> -->
+            <li><a href="forum.php?mod=guide&amp;view=hot">最新热门</a></li>
+            <li><a href="forum.php?mod=guide&amp;view=digest">精华区</a></li>
+            <!-- <li><a href="#">社区服务</a></li>
+            <li><a href="#">会员列表</a></li>
+            <li><a href="#">统计排行</a></li> -->
+        </ul>
+    </div>
+         <!-- common/top_news -->    <div class="wrap" style="display: block;background:#fff;box-shadow: 0 1px 3px #BCBCBC;margin: 0 auto 10px;padding: 10px 0 5px;overflow: hidden;text-align: center;"><div><iframe id='acb15711' name='acb15711' src='https://yes1.feng.com/frame.php?n=acb15711&what=zone:42' framespacing='0' frameborder='no' scrolling='no' width='960' height='80'><a href='https://yes1.feng.com/click.php?n=acb15711' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:42&n=acb15711' border='0' alt=''></a></iframe>
+<script language='JavaScript' type='text/javascript'><!--
+if (typeof phpAds_adg == 'undefined') {
+	document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="https://yes1.feng.com/adg.js"></scr'+'ipt>');
+}
+//--></script></div><div style="margin-left: auto;margin-right: auto;width: 960px;"></div></div>
+
+    <!-- Search box -->
+<style type="text/css">
+#bdcs{ width:366px;height:30px;}
+.bdcs-container .bdcs-search-form-input{ width:310px;display:inline-block; background:#efefef; border:1px solid #efefef; border-top-color:#fff; border-radius:4px; box-shadow:0 2px 2px rgba(0,0,0,.09); padding:0 26px; height:28px; vertical-align:top;}
+.google_sch{ position:relative; height:30px;}
+.google_sch .zoom{left: 37px;z-index: 5;top: 1px;}
+.bdcs-clearfix{ height:30px;}
+.bdcs-container{ height:30px;}
+.bdcs-container .bdcs-search-form-submit,.bdcs-container .bdcs-hot{display: none;}
+.bdcs-container .bdcs-search-form-input:focus {border-color: #1AA0CA;}
+</style>
+<script src="bbs_v4/js/jquery-migrate-1.1.1.js" type="text/javascript"></script>
+<div id="search_box" class="wrap search_box">
+    <div class="field_panel curr_owner">
+        <div class="type_panel"><span class="type"><em class="google">Google</em><em class="owner">论坛搜索</em></span></div>
+        <div class="sch_panel google_sch"><i class="zoom"></i>
+            <form id="scbar_google_form"action="https://www.da-apple.com/search" method="get" autocomplete="off" target="_blank">
+                <ul>
+                    <li class="txt_field"><span class="txt"><i class="zoom"></i><input type="text" name="q" id="keyword" placeholder="搜索其实很简单！ (^_^)" x-webkit-grammar="builtin:translate" x-webkit-speech /><i class="clear hide"></i></span></li>
+                    <li class="btns"><button type="submit">搜索</button></li>
+                </ul>
+                <input type="hidden" name="search_site" value="feng.com" />
+            </form>
+</div>
+
+<div class="sch_panel owner_sch">
+<form  method="get" id="scbar_form" autocomplete="off" action="https://s.feng.com/index.php"  target="_blank" >
+<ul>
+                <li class="txt_field"><span class="txt"><i class="zoom"></i><input type="text" name="srchtxt" id="scbar_txt" placeholder="搜索其实很简单！ (^_^)"  /><i class="clear hide"></i></span></li>
+                <!--
+<li class="txt_field"><span class="txt"><i class="zoom"></i><input type="text" name="srchtxt" id="scbar_txt" placeholder="苹果教育优惠2017" value="" onfocus="this.placeholder=''" onblur="this.placeholder='苹果教育优惠2017'"/><i class="clear hide"></i></span></li>
+                -->
+                <li class="sch_type">
+<div class="type_list">
+<span class="current">论坛</span>
+<span data-type="thread">论坛</span>
+                        <span data-type="news">新闻</span>
+                        <!--
+<span data-type="tech">锋科技</span>
+<span data-type="app">应用</span>
+<span data-type="lab">评测</span>
+<span data-type="wper">威智网</span>
+<span data-type="webuy">商城</span>
+<span data-type="movie">电影</span>
+<span data-type="weand">安锋网</span>
+                        <span data-type="user">作者</span>
+                        -->
+<i class="arrow"></i><i class="line"></i>
+</div>
+</li>
+<li class="btns"><button type="submit">搜索</button></li>
+</ul>
+
+<input type="hidden" name="srchmod" id="scbar_mod" value="thread" />
+
+<input type="hidden" name="formhash" value="15022f9d" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="22" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+</form></div>
+</div>
+
+<div class="hot_keys" id="scbar_hot_1">
+        <span class="label">热搜：</span>
+        <a href="http://aos.prf.hn/click/camref:1101l38LJ/destination:https://www.apple.com/cn/shop/go/buy_iphone/iphone_x" target="_blank">iPhone X</a>
+        <a href='https://s.feng.com/search.php?srchmod=thread&srchtxt=苹果教育优惠&filter=count' target='_blank' title='苹果教育优惠'>苹果教育优惠</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=IOS11越狱&filter=count' target='_blank' title='IOS11越狱'>IOS11越狱</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=10.3.3 &filter=count' target='_blank' title='10.3.3 '>10.3.3 </a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=applecare &filter=count' target='_blank' title='applecare '>applecare </a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=直营店&filter=count' target='_blank' title='直营店'>直营店</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=11.4&filter=count' target='_blank' title='11.4'>11.4</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=ios11&filter=count' target='_blank' title='ios11'>ios11</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=兔兔助手&filter=count' target='_blank' title='兔兔助手'>兔兔助手</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=ios12&filter=count' target='_blank' title='ios12'>ios12</a><a href='http://s.feng.com/search.php?srchmod=thread&srchtxt=王者荣耀&filter=count' target='_blank' title='王者荣耀'>王者荣耀</a>    </div>
+</div>
+
+<!-- Container -->
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('22'), tid = parseInt('9062785');</script>
+
+<script src="/bbs_v4/js/forum_viewthread.js?oBc" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '600';var aimgcount = [];</script>
+
+<div id="pt" class="bbs_info crumbs">
+<div class="crumbs_inner"><a href="./" class="home" title="首页">威锋论坛</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=184">iPhone&amp;Touch 资源分享区</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=22&amp;page=">iPhone资源区</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&fid=22&archiveid=5">存档 5</a><em>&rsaquo;</em>
+                        <a href="read-htm-tid-9062785.html">kindle电子书之古典文学篇</a>
+
+    </div>
+</div>
+<!-- 威锋的广告都是非干扰，非侵入式的广告，为了页面的美观和功能的完整以及威锋员工及背后的家属的生存，请不要再把我们的代码加入到公开的过滤列表中，谢谢！ -->
+<div class="wrap fl_row">
+<div class="fl_tb">
+<div class="inner">
+<ul>
+<li class="list"></li>
+            <li class="list"></li>
+<li class="list"></li>
+<li class="list"></li>
+<li class="fix"></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div id="ct" class="wp cl re_ct">
+<div id="pgt" class="pgs mbm cl">
+<div class="pager pager_top">
+<div class="page_list">
+<div class="pg back_pg" ><a href="forum.php?mod=forumdisplay&amp;fid=22&amp;page=">返回列表</a></div>
+<div class="pg"><strong>1</strong><a href="forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page=2">2</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page='+this.value;; doane(event);}" /><span title="共 2 页"> / 2 页</span></label><a href="forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page=2" class="nxt">下一页</a></div></div>
+</div>
+
+
+</div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0" class="pl_tit_table">
+<tr>
+<td class="pls">
+<div class="pl_slider_top">
+<span class="count"><em>12207</em>阅读</span>
+<span class="pipe">|</span>
+<span class="count"><em>10</em>回复</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+
+<div class="y">
+                        <a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=9062785" title="打印" target="_blank"><img src="/bbs_v4/images/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=9062785" title="上一主题"><img src="/bbs_v4/images/thread_prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=9062785" title="下一主题"><img src="/bbs_v4/images/thread_next.png" alt="下一主题" class="vm" /></a>
+</div>
+<div class="pl_tit_panel">
+<h1 class="ts">
+
+                                              <span id="thread_subject">kindle电子书之古典文学篇</span>
+                    </h1>
+<span class="xg1">
+<a href="read-htm-tid-9062785.html" onclick="return copyThreadUrl(this, '威锋论坛')" >[复制链接]</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_144312388" >
+<table id="pid144312388" class="plhin" summary="pid144312388" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144312388" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+<a name="newpost"></a> <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xw1">演绎流星</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144312388" style="display:none">
+<div class="m z">
+<div id="userinfo144312388_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xi2">演绎流星</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2015-1-6</dd> <dt>最后登录</dt><dd>2018-9-23</dd>
+<dt>在线时间</dt><dd>317 小时</dd> <dt>UID</dt><dd><a href="?9319750" target="_blank" class="xi2">9319750</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>911 </dd> <dt>人气</dt><dd>117 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=9319750&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144312388"><a href="home.php?mod=space&amp;uid=9319750" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/009/31/97/50_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=9319750&do=thread&type=thread&view=me&from=space">28</a><span>主题</span></th><th><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space">1985</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=9319750&do=profile">117</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank">白苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank"><img src="data/attachment/common/b6/common_22_usergroup_icon.png" alt="" class="vm" /></a></p>
+<p class="xg1">落幕不悔。</p>
+
+<p><span id="g_up144312388" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+<div id="g_up144312388_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">白苹果, 积分 912, 距离下一级还需 588 积分</div></div>
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd>
+
+        <dt>经验</dt><dd>911 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>117 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_9319750" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=9319750" name="fans_9319750">6</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9319750&amp;touid=9319750&amp;pmid=0&amp;daterange=2&amp;pid=144312388&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="read-htm-tid-9062785.html"   id="postnum144312388" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144312388" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144312388">发表于 2015-4-25 08:30:42</em>
+<!--<span class="pipe">|</span><span class="xg1"><a href="javascript:extension(9062785);">推广</a></span>-->
+                        <span class="pipe">|</span><span class="xg1"><a href="javascript:show_chart(9062785);">浏览量</a></span>
+
+
+                        <script src="/static/js/calendar.js" type="text/javascript"></script>
+                        <script type="text/javascript">
+                            function show_chart(tid){
+                                //jQuery.getScript("/source/plugin/patrol/js/echarts/echarts.js", function(){
+
+
+                                    jQuery.getScript("/static/js/echarts/echarts.js",function(){
+                                            var option = {
+                                                title : {
+                                                    text: '帖子当日展示和互动情况',
+                                                    subtext: 'kindle电子书之古典文学篇'
+                                                },
+                                                tooltip : {
+                                                    trigger: 'axis'
+                                                },
+                                                color: ['#1ab394', '#b6a2de'],
+                                                legend: {
+                                                    data:["展示量","互动数"]
+                                                },
+                                                toolbox: {
+                                                    show : true,
+                                                    feature : {
+                                                        mark : {show: true},
+                                                        dataView : {show: true, readOnly: false},
+                                                        magicType : {show: true, type: ['bar', 'line']},
+                                                        restore : {show: true},
+                                                        saveAsImage : {show: true}
+                                                    }
+                                                },
+                                                //calculable : true,
+                                                xAxis : [
+                                                    {
+                                                        type : 'category',
+                                                        boundaryGap: false,
+                                                        data : [],
+                                                        axisTick: {
+                                                            alignWithLabel: true
+                                                        }
+                                                    }
+                                                ],
+                                                yAxis : [
+                                                    {
+                                                        type : 'value',
+
+                                                    }
+                                                ],
+                                                series : [
+                                                    {"name":"展示量","type":"bar","data":[]},
+                                                    {"name":"互动数","type":"bar","data":[]}
+                                                ]
+                                            };
+                                            re = function(){
+                                                var type = jQuery('input:radio[name=extension_chart_type]:checked').val();
+                                                if (0 == type) {
+                                                    var day = jQuery('#day_chart').val();
+                                                } else if (2 == type) {
+                                                    var day = '2';
+                                                } else if (7 == type) {
+                                                    var day = '7';
+                                                } else if (30 == type) {
+                                                    var day = '30';
+                                                }
+                                                myChart.showLoading({
+                                                    text: '加载中',
+                                                    effect: 'spin',
+                                                    textStyle : {
+                                                        fontSize : 20
+                                                    }
+                                                });
+                                                jQuery.ajax({
+                                                    type : 'POST',
+                                                    dataType : 'jsonp',
+                                                    jsonp:"jsoncallback",
+                                                    data:{tid:tid,day:day},
+                                                    url: 'https://bbsanalytics.weiphone.net/get_extension.php',
+                                                    success: function (data) {
+                                                        myChart.hideLoading();
+                                                        option.title.text = data['data']['title'];
+                                                        option.xAxis[0] = {type : 'category',boundaryGap : false,data : data['data']['x']};
+                                                        option.series[0] = {"name":"展示量","type":"bar","data":data['data']['y']};
+                                                        option.series[1] = {"name":"互动数","type":"bar","data":data['data']['y1']};
+                                                        myChart.setOption(option, true);
+                                                        myChart.dispatchAction({
+                                                            type: 'restore'
+                                                        });
+                                                    },
+                                                    error: function () {
+                                                        myChart.hideLoading();
+                                                        alert('网络错误,请关闭后重新尝试');// 填充对话框内容
+                                                    }
+                                                });
+
+                                            }
+                                            jQuery.dialog({
+                                                content: '<label><input type="radio" name="extension_chart_type" value="0" checked="true">&nbsp;日期：</label><input type="text" class="px" size="10" readonly value="2018-12-10" id="day_chart" onclick="showcalendar(event, this,\'\',\'\',\'\',\'\',re);">&nbsp;&nbsp;&nbsp;&nbsp;'+
+                                                    '<label><input type="radio" name="extension_chart_type" value="2">&nbsp;<a >最近两天</a></label>&nbsp;&nbsp;&nbsp;&nbsp;'+
+                                                    '<label><input type="radio" name="extension_chart_type" value="7">&nbsp;<a >最近一周</a></label>&nbsp;&nbsp;&nbsp;&nbsp;'+
+                                                    '<label><input type="radio" name="extension_chart_type" value="30">&nbsp;<a >最近一月</a></label><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/forum.php?mod=guide&amp;view=extension">管理我的推广</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:extension(9062785);">立即推广</a>--><br>'+
+                                                    '<div style="width:900px;height:500px" id="main_chart"></div>'
+                                            });
+
+                                            jQuery('input:radio[name=extension_chart_type]').change(function(){
+                                                re();
+                                            });
+                                            var myChart = echarts.init(document.getElementById('main_chart'), 'macarons');
+
+                                            //myChart.setOption(option);
+                                            re();
+                                    });
+
+
+
+                                    //clearTimeout(loadingTicket);
+                                    /*
+                                    loadingTicket = setTimeout(function (){
+                                        myChart.hideLoading();
+                                        myChart.setOption(option);
+                                        option.series[0].data = [12,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,4,0,9,0,0];
+                                        myChart.setOption(option);
+                                    },2200);
+                                    */
+                                //});
+                            }
+                            function extension(tid) {
+                                var myDialog = art.dialog();// 初始化一个带有loading图标的空对话框
+                                jQuery.ajax({
+                                    type : 'POST',
+                                    dataType : 'text',
+                                    data:{tid:tid},
+                                    url: '/extension.php',
+                                    success: function (data) {
+                                        myDialog.content(data);// 填充对话框内容
+                                    },
+                                    error: function () {
+                                        myDialog.content('网络错误,请关闭后重新尝试');// 填充对话框内容
+                                    }
+                                });
+                            }
+                        </script>
+<span class="pipe">|</span>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 144312388);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><iframe id='a4fbb3f6' name='a4fbb3f6' src='https://yes1.feng.com/frame.php?n=a4fbb3f6&what=zone:72' framespacing='0' frameborder='no' scrolling='no' width='728' height='90'><a href='https://yes1.feng.com/click.php?n=a4fbb3f6' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:72&n=a4fbb3f6' border='0' alt=''></a></iframe>
+</div><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144312388">
+<i class="pstatus"> 本帖最后由 演绎流星 于 2015-10-3 20:33 编辑 </i><br />
+<br />
+<img src="static/image/smiley/rabbit/018.gif" smilieid="331" border="0" alt="" class="smiley" />感觉好的话记得<font color="#ff0000"><strong><u>加下分顶下哇</u></strong></font><br />
+<font color="#ff0000"><strong><u>嫌一个个下载麻烦的附百度云链接：</u></strong></font><font style="background-color:rgb(254, 254, 254)"><font face="微软雅黑, Arial, HELVETICA"><a href="http://pan.baidu.com/s/1hqKRUXQ" target="_blank">http://pan.baidu.com/s/1hqKRUXQ</a></font></font><br />
+</td></tr></table>
+
+
+<div class="ptg mbm mtw">
+<a title="电子书" href="misc.php?mod=tag&amp;id=1240" target="_blank">电子书</a>, <a title="kindle" href="misc.php?mod=tag&amp;id=737" target="_blank">kindle</a>, <a title="百度" href="misc.php?mod=tag&amp;id=367" target="_blank">百度</a></div>
+<div class="pattl">
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTA5NXw0MjIxNjJkMnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA%E8%AF%97%E9%9B%86.mobi', 'get', -1);">仓央嘉措诗集.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619095&key=90c28f4e2b05d1dee0b811228521ff09" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619095" target="_blank">仓央嘉措诗集.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619095_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:21 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>257.8 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTA5NnwwZTExMzUwYXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%88%9D%E5%88%BB%E6%8B%8D%E6%A1%88%E6%83%8A%E5%A5%87.mobi', 'get', -1);">初刻拍案惊奇.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619096&key=e650b0084045d01146b0735e85cce4b2" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619096" target="_blank">初刻拍案惊奇.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619096_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:21 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.14 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/pdf.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTA5N3xmN2IxYTUzM3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%BC%A0%E4%B9%A0%E5%BD%95.pdf', 'get', -1);">传习录.pdf</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619097&key=cad56d26d0ceb0159fc8d4216d7ea7d7" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619097" target="_blank">传习录.pdf</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619097_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:21 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.25 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTA5OHw3NTBlMWQ5NnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E9%81%93%E5%BE%B7%E7%BB%8F%E5%8F%A4%E4%BB%8A%E6%AD%A3%E8%A7%A3.mobi', 'get', -1);">道德经古今正解.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619098&key=e6e142bf42fe7ea755eb5070735afe14" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619098" target="_blank">道德经古今正解.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619098_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:21 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>507.55 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTA5OXw2ZTQyOTA4ZHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%BA%8C%E5%88%BB%E6%8B%8D%E6%A1%88%E6%83%8A%E5%A5%87.mobi', 'get', -1);">二刻拍案惊奇.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619099&key=6e2b0ecee180931efd4bbc28b14b85ba" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619099" target="_blank">二刻拍案惊奇.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619099_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.23 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwMHw4MzkxOTJiMnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E7%BA%A2%E6%A5%BC%E6%A2%A6.mobi', 'get', -1);">红楼梦.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619100&key=d0409a69510f797211375fc7f82be9b1" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619100" target="_blank">红楼梦.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619100_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>2.24 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwMXwyN2FlYzM4Y3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%AD%A6%E4%B8%96%E9%80%9A%E8%A8%80.mobi', 'get', -1);">警世通言.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619101&key=9dc4e29380645b8daf240a6456e6a549" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619101" target="_blank">警世通言.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619101_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.12 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwMnwyMzllNzVjMnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%80%81%E5%AD%90%E7%99%BD%E8%AF%9D%E4%BB%8A%E8%AF%91.mobi', 'get', -1);">老子白话今译.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619102&key=f60c7a1dd947963acf972738b259740c" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619102" target="_blank">老子白话今译.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619102_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>410.68 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwM3wxNTdjMzA2NHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%B9%90%E5%BA%9C%E8%AF%97%E9%9B%86.mobi', 'get', -1);">乐府诗集.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619103&key=a652357dfc0ce5c11fbcabcc74df272c" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619103" target="_blank">乐府诗集.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619103_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.52 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwNHw4MWZkNjhjZnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%AE%BA%E8%AF%AD.mobi', 'get', -1);">论语.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619104&key=778274e13e1b3bf8fce55fa08dbd822c" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619104" target="_blank">论语.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619104_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>572.44 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwNXxjYzFhMmY0YXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%AE%BA%E8%AF%AD%E5%85%A8%E8%A7%A3.mobi', 'get', -1);">论语全解.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619105&key=261fd7267862723236cfd74b8437f92f" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619105" target="_blank">论语全解.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619105_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>447.8 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/pdf.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwNnxkZDQ2ZGY5YnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%AE%BA%E8%AF%AD%E6%96%B0%E8%A7%A3.pdf', 'get', -1);">论语新解.pdf</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619106&key=d98721fcf581a1b827b1fc1cbf15869d" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619106" target="_blank">论语新解.pdf</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619106_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>2.26 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwN3w5YmY5NzEwZnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%AD%9F%E5%AD%90.mobi', 'get', -1);">孟子.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619107&key=a3e1f4b7a0c956d187618cb7f5919669" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619107" target="_blank">孟子.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619107_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>141.64 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEwOHw1MWYyNGQ0MHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E7%BA%B3%E5%85%B0%E8%AF%8D%E7%AC%BA%E6%B3%A8.mobi', 'get', -1);">纳兰词笺注.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619108&key=b58eae77696de163479158b6b02f3186" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619108" target="_blank">纳兰词笺注.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619108_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:22 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>662.93 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTExMnxhMDcwNmRjNXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%85%A8%E5%AE%8B%E8%AF%8D.mobi', 'get', -1);">全宋词.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619112&key=b8391cbad9227f6205fed74337955c97" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619112" target="_blank">全宋词.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619112_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:24 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>5.93 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTExN3w0ZDc1MDNmZnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%B8%89%E5%AD%97%E7%BB%8F-%E5%85%A8%E6%96%87-%E8%A7%A3%E9%87%8A.mobi', 'get', -1);">三字经-全文-解释.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619117&key=1fc6487670bceb578cd7c9d464cefe06" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619117" target="_blank">三字经-全文-解释.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619117_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:25 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>126.55 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTExOHxmNWE2OGNjYXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%8F%B2%E8%AE%B0%28%E6%96%87%E7%99%BD%E5%AF%B9%E7%85%A7%E7%89%88%29.mobi', 'get', -1);">史记(文白对照版).mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619118&key=abfbb903694c0c7f593d7add6dfe9927" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619118" target="_blank">史记(文白对照版).mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619118_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:25 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>6.23 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTExOXxkZWRiYzE2Y3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD%E8%AF%91%E6%B3%A8.mobi', 'get', -1);">世说新语译注.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619119&key=b9b3f5c950ed1aa6af2fb8b706634024" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619119" target="_blank">世说新语译注.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619119_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:25 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.12 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyMHwzMTMyMWFlMnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E6%B0%B4%E6%B5%92%E4%BC%A0.mobi', 'get', -1);">水浒传.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619120&key=0009b60dfafed0c7d575c2f5187d5786" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619120" target="_blank">水浒传.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619120_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:25 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>2.26 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyMXwwZWI2NjQxYXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97.mobi', 'get', -1);">四大名著.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619121&key=303e84cfc3a07255ce9ec226f4fe231e" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619121" target="_blank">四大名著.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619121_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:26 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>8.48 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyMnwwODUxYzk1NHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F.mobi', 'get', -1);">四书五经.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619122&key=34c2f70e8c1658208e8d784839b15578" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619122" target="_blank">四书五经.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619122_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:26 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>2.57 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyM3w3NGFjN2Q1OHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E9%9A%8F%E5%9B%AD%E9%A3%9F%E5%8D%95_%E8%A2%81%E6%9E%9A.mobi', 'get', -1);">随园食单_袁枚.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619123&key=2e308088532f13cfc1c24b3d19c5d80b" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619123" target="_blank">随园食单_袁枚.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619123_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:26 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>88.77 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyNHwyYzE2ZTE5N3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.prc', 'get', -1);">孙子兵法.prc</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619124&key=16147a2429ba25c9c49ed86a01ab2731" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619124" target="_blank">孙子兵法.prc</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619124_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:26 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>742.04 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEyNnw0YjRkMDlhMXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E6%A1%83%E8%8A%B1%E6%89%87.mobi', 'get', -1);">桃花扇.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619126&key=d13ea562fade7a37d66732472921f2ea" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619126" target="_blank">桃花扇.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619126_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:27 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>301.22 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzMXxkYjEyNmE5YXwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D.mobi', 'get', -1);">围炉夜话.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619131&key=f48bff686948d1975dad68965de721aa" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619131" target="_blank">围炉夜话.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619131_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>191.87 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzM3xhMWIyZTQzNHwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E8%A5%BF%E6%B8%B8%E8%AE%B0.mobi', 'get', -1);">西游记.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619133&key=3fc2c9fc9a04a3e542679bbdc457ab30" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619133" target="_blank">西游记.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619133_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.94 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzNXxhNTIwYmVlYnwxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%B0%8F%E7%AA%97%E5%B9%BD%E8%AE%B0.mobi', 'get', -1);">小窗幽记.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619135&key=1793eae1c57cf6c817cdc035951a6cf1" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619135" target="_blank">小窗幽记.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619135_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>215.78 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzNnw3Y2NlZWFmY3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E9%86%92%E4%B8%96%E6%81%92%E8%A8%80.mobi', 'get', -1);">醒世恒言.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619136&key=cc08c412f18aafc0354213e77d4a9c13" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619136" target="_blank">醒世恒言.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619136_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.53 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzN3w3ZTA2M2M2Y3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%96%BB%E4%B8%96%E6%98%8E%E8%A8%80.mobi', 'get', -1);">喻世明言.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619137&key=7f3e6867814623a4bd5a5000962b6570" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619137" target="_blank">喻世明言.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619137_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.09 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/unknown.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTEzOXwyYTE4NzI2Y3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E6%88%98%E5%9B%BD%E7%AD%96.mobi', 'get', -1);">战国策.mobi</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619139&key=fa77883748029e3c4d7d424d6775cf6d" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619139" target="_blank">战国策.mobi</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619139_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:28 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>992.63 KB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+
+<ignore_js_op>
+<dl class="tattl">
+<dt>
+<img src="https://bbs.feng.com/static/image/filetype/pdf.gif" border="0" class="vm" alt="" />
+</dt>
+<dd>
+<p class="attnm">
+
+                                        <!-- <a href="javascript:;" target="_blank" onclick="showWindow('plugin_attachment_download', 'plugin.php?id=attachment_download:attachment_download&aid=OTYxOTE0OHwxNjk0ZDJlY3wxNTQ0NDIzMzg5fDB8OTA2Mjc4NQ%3D%3D&file_name=%E5%BA%84%E5%AD%90.pdf', 'get', -1);">庄子.pdf</a> -->
+
+                    <!--  -->
+<a href="https://bbs.feng.com/tencentdownload.php?aid=9619148&key=4441d7fda20036f94fe9692f19b9a172" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid9619148" target="_blank">庄子.pdf</a>
+                    <!--  -->
+
+<div class="tip tip_4" id="aid9619148_menu" style="display: none" disautofocus="true">
+<div class="tip_c">
+<p class="y">2015-4-25 08:30 上传</p>
+<p>点击文件名下载附件</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+</p>
+<p>1.22 MB  </p>
+<p>
+
+</p>
+
+
+</dd>
+</dl>
+</ignore_js_op>
+</div>
+
+</div>
+<div id="comment_144312388" class="cm">
+</div>
+
+<div class="psth"><h3><i class="rate"></i><span>评分</span><em>2</em></h3></div>
+<div id="ratelog_144312388" class="rate_panel">
+<ul class="cl rate_avt_list"><li>
+<p id="rate_144312388_2199792" onmouseover="showTip(this)" tip="<strong>感谢分享^_^</strong>&nbsp;<em class='xi1'>人气 + 5 </em>
+" class="mtn mbn"><a href="home.php?mod=space&amp;uid=2199792" target="_blank" class="avt"><img src="https://face.feng.com/data/avatar/002/19/97/92_avatar_middle.jpg" /></a></p>
+<p><a href="home.php?mod=space&amp;uid=2199792" target="_blank" title="王健1">王健1</a></p>
+</li><li>
+<p id="rate_144312388_3739382" onmouseover="showTip(this)" tip="<strong>&lt;a  href=&quot;forum.php?mod=redirect&amp;goto=findpost&amp;ptid=9062785&amp;pid=144516596&amp;fromuid=1&quot;&gt;&lt;span &gt;大哥，不能压缩一下么？忒多了！！！&lt;/span&gt;&lt;/a&gt;</strong>&nbsp;<em class='xi1'>人气 + 1 </em>
+" class="mtn mbn"><a href="home.php?mod=space&amp;uid=3739382" target="_blank" class="avt"><img src="https://face.feng.com/data/avatar/003/73/93/82_avatar_middle.jpg" /></a></p>
+<p><a href="home.php?mod=space&amp;uid=3739382" target="_blank" title="ljlqh">ljlqh</a></p>
+</li></ul>
+<div class="psth">
+<h3><i class="user"></i><span>评分次数</span><em>2</em></h3>
+<h3 class="counts"><span>人气</span><em>+6</em>
+</h3>
+<a href="javascript:;" class="funs toggle" onclick="toggleRatelogCollapse('ratelog_144312388', this);"><span>收起<i class="collapse"></i></span></a>
+</div>
+<div id="post_rate_144312388" class="rate">
+<table class="ratl"><tbody><tr id="rate_144312388_2199792">
+<td>
+<a href="home.php?mod=space&amp;uid=2199792" target="_blank"><img src="https://face.feng.com/data/avatar/002/19/97/92_avatar_small.jpg" /></a> <a href="home.php?mod=space&amp;uid=2199792" target="_blank">王健1</a>
+</td><td class="xi1">+ 5</td>
+<td class="xg1 rate_time">2016-1-5 21:28</td><td class="xg1">感谢分享^_^</td>
+</tr>
+<tr id="rate_144312388_3739382">
+<td>
+<a href="home.php?mod=space&amp;uid=3739382" target="_blank"><img src="https://face.feng.com/data/avatar/003/73/93/82_avatar_small.jpg" /></a> <a href="home.php?mod=space&amp;uid=3739382" target="_blank">ljlqh</a>
+</td><td class="xi1">+ 1</td>
+<td class="xg1 rate_time">2015-4-28 17:24</td><td class="xg1"><a  href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144516596&fromuid=1"><span >大哥，不能压缩一下么？忒多了！！！</span></a></td>
+</tr>
+</tbody></table>
+<div class="ratc"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=9062785&amp;pid=144312388" onclick="showWindow('viewratings', this.href)" title="查看全部评分">查看全部评分</a></div>
+</div>
+</div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="mtw mbw">
+<h3 class="pbm mbm bbda">相关帖子</h3>
+<ul class="xl xl2 cl"><li>&#8226; <a href="read-htm-tid-11848349.html" title="【强迫症的ePub】【精校精排】【039】Priest《有匪》" target="_blank">【强迫症的ePub】【精校精排】【039】Priest《有匪》</a></li>
+<li>&#8226; <a href="read-htm-tid-11836035.html" title="【强迫症的ePub】【中亚精排】【037】弗雷德里克·巴克曼《清单人生》" target="_blank">【强迫症的ePub】【中亚精排】【037】弗雷德里克·巴克曼《清单人生》</a></li>
+<li>&#8226; <a href="read-htm-tid-11752580.html" title="【强迫症的ePub】【中亚精排】【033】李开元《秦谜：重新发现秦始皇》" target="_blank">【强迫症的ePub】【中亚精排】【033】李开元《秦谜：重新发现秦始皇》</a></li>
+<li>&#8226; <a href="read-htm-tid-11736208.html" title="【强迫症的ePub】【读校精排】【031】丁墨《乌云遇皎月》~之前的为什么被删？重发" target="_blank">【强迫症的ePub】【读校精排】【031】丁墨《乌云遇皎月》~之前的为什么被删？重发</a></li>
+<li>&#8226; <a href="read-htm-tid-11733366.html" title="《国富论（缩译全彩插图本）》西方经济学‘圣经’“经济学百科全书”" target="_blank">《国富论（缩译全彩插图本）》西方经济学‘圣经’“经济学百科全书”</a></li>
+<li>&#8226; <a href="read-htm-tid-11731586.html" title="【强迫症的ePub】【读校精排】【030】藤萍《吉祥纹莲花楼》" target="_blank">【强迫症的ePub】【读校精排】【030】藤萍《吉祥纹莲花楼》</a></li>
+<li>&#8226; <a href="read-htm-tid-11728585.html" title="【强迫症的ePub】【读校精排】【029】恩斯特·克莱恩《玩家1号》Ready Player One" target="_blank">【强迫症的ePub】【读校精排】【029】恩斯特·克莱恩《玩家1号》Ready Player One</a></li>
+<li>&#8226; <a href="read-htm-tid-11720693.html" title="【强迫症的ePub】【中亚精排】【026】帕拉格·康纳《超级版图：全球供应链、超级城市....》" target="_blank">【强迫症的ePub】【中亚精排】【026】帕拉格·康纳《超级版图：全球供应链、超级城市....》</a></li>
+<li>&#8226; <a href="read-htm-tid-11764521.html" title="【强迫症的ePub】【中亚精排】【034】弗雷德里克·巴克曼《外婆的道歉信》" target="_blank">【强迫症的ePub】【中亚精排】【034】弗雷德里克·巴克曼《外婆的道歉信》</a></li>
+</ul>
+</div>
+<div class="sign" style="max-height:200px;maxHeightIE:200px;">
+<div class="psth sign_psth"><h3><i class="sign_icon"></i><span>Signature</span></h3></div>
+<strong>人的感情就像牙齿，掉了就没了，再装也是假的。</strong></div>
+<div class="a_pb"><a href='https://yes1.feng.com/click.php?n=abf80c7f&zoneid=102' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:102&n=abf80c7f' border='0' alt=''></a></div></td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144312388" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_152895323" >
+<table id="pid152895323" class="plhin" summary="pid152895323" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar152895323" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=3804499" target="_blank" class="xw1">此用户已被禁止</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo152895323" style="display:none">
+<div class="m z">
+<div id="userinfo152895323_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=3804499" target="_blank" class="xi2">此用户已被禁止</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2011-12-12</dd> <dt>最后登录</dt><dd>2015-9-30</dd>
+<dt>在线时间</dt><dd>0 小时</dd> <dt>UID</dt><dd><a href="?3804499" target="_blank" class="xi2">3804499</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3804499&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">32</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>30 </dd> <dt>人气</dt><dd>7 </dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=3804499&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo152895323"><a href="home.php?mod=space&amp;uid=3804499" class="avtm" target="_blank"><img src="/bbs_v4/images/avatar_middle.png" height="120" width="120" alt="牛顿老乔的苹果" /></a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=3804499&do=thread&type=thread&view=me&from=space">0</a><span>主题</span></th><th><a href="home.php?mod=space&uid=3804499&do=thread&type=reply&view=me&from=space">32</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=3804499&do=profile">7</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=5" target="_blank">禁止访问</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=5" target="_blank"><img src="data/attachment/common/e4/common_5_usergroups_icon_mobile.png" alt="" class="vm" /></a></p>
+
+
+<p><span></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3804499&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">32</a></dd>
+
+        <dt>经验</dt><dd>30 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>7 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_3804499" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=3804499" name="fans_3804499">0</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_3804499&amp;touid=3804499&amp;pmid=0&amp;daterange=2&amp;pid=152895323&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=152895323"   id="postnum152895323" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>10</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon152895323" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton152895323">发表于 2015-9-30 09:44:44</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><script language='JavaScript' type='text/javascript' src='https://yes1.feng.com/x.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("https://yes1.feng.com/js.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:73");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='https://yes1.feng.com/click.php?n=aaa7a23b' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:73&amp;n=aaa7a23b' border='0' alt=''></a></noscript></div><div class="pcb">
+<div class="locked">提示: <em>作者被禁止或删除 内容自动屏蔽</em></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="a_pb"><a href='https://yes1.feng.com/click.php?n=a4660665&zoneid=105' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:105&n=a4660665' border='0' alt=''></a></div></td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition152895323" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_152732994" >
+<table id="pid152732994" class="plhin" summary="pid152732994" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar152732994" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=6782094" target="_blank" class="xw1">VVVWXVVV</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo152732994" style="display:none">
+<div class="m z">
+<div id="userinfo152732994_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=6782094" target="_blank" class="xi2">VVVWXVVV</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2013-10-18</dd> <dt>最后登录</dt><dd>2015-9-27</dd>
+<dt>在线时间</dt><dd>1 小时</dd> <dt>UID</dt><dd><a href="?6782094" target="_blank" class="xi2">6782094</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=6782094&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">9</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>16 </dd> <dt>人气</dt><dd>0 </dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=6782094&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo152732994"><a href="home.php?mod=space&amp;uid=6782094" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/006/78/20/94_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=6782094&do=thread&type=thread&view=me&from=space">0</a><span>主题</span></th><th><a href="home.php?mod=space&uid=6782094&do=thread&type=reply&view=me&from=space">9</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=6782094&do=profile">0</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=27" target="_blank">小苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=27" target="_blank"><img src="data/attachment/common/02/common_27_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up152732994" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=6782094&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">9</a></dd>
+
+        <dt>经验</dt><dd>16 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>0 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_6782094" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=6782094" name="fans_6782094">0</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_6782094&amp;touid=6782094&amp;pmid=0&amp;daterange=2&amp;pid=152732994&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=152732994"   id="postnum152732994" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>9</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon152732994" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton152732994">发表于 2015-9-27 12:07:19</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_152732994">
+                            	感谢分享，很是喜欢
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_152732994" class="cm">
+</div>
+
+<div id="post_rate_div_152732994"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="a_pb"><a href='https://yes1.feng.com/click.php?n=afd650dd&zoneid=106' target='_blank'><img src='https://yes1.feng.com/view.php?what=zone:106&n=afd650dd' border='0' alt=''></a></div></td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition152732994" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144907649" >
+<table id="pid144907649" class="plhin" summary="pid144907649" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144907649" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=76331" target="_blank" class="xw1">afa113</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144907649" style="display:none">
+<div class="m z">
+<div id="userinfo144907649_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=76331" target="_blank" class="xi2">afa113</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2008-1-20</dd> <dt>最后登录</dt><dd>2018-12-2</dd>
+<dt>在线时间</dt><dd>186 小时</dd> <dt>UID</dt><dd><a href="?76331" target="_blank" class="xi2">76331</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=76331&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">119</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>747 </dd> <dt>人气</dt><dd>21 </dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=76331&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144907649"><a href="home.php?mod=space&amp;uid=76331" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/000/07/63/31_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=76331&do=thread&type=thread&view=me&from=space">5</a><span>主题</span></th><th><a href="home.php?mod=space&uid=76331&do=thread&type=reply&view=me&from=space">119</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=76331&do=profile">21</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank">白苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank"><img src="data/attachment/common/b6/common_22_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up144907649" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=76331&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">119</a></dd>
+
+        <dt>经验</dt><dd>747 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>21 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_76331" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=76331" name="fans_76331">3</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_76331&amp;touid=76331&amp;pmid=0&amp;daterange=2&amp;pid=144907649&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144907649"   id="postnum144907649" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>8</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144907649" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144907649">发表于 2015-5-5 14:58:34</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144907649">
+                            	感谢分享好资源.
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144907649" class="cm">
+</div>
+
+<div id="post_rate_div_144907649"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144907649" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144589272" >
+<table id="pid144589272" class="plhin" summary="pid144589272" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144589272" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xw1">演绎流星</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144589272" style="display:none">
+<div class="m z">
+<div id="userinfo144589272_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xi2">演绎流星</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2015-1-6</dd> <dt>最后登录</dt><dd>2018-9-23</dd>
+<dt>在线时间</dt><dd>317 小时</dd> <dt>UID</dt><dd><a href="?9319750" target="_blank" class="xi2">9319750</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>911 </dd> <dt>人气</dt><dd>117 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=9319750&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144589272"><a href="home.php?mod=space&amp;uid=9319750" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/009/31/97/50_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=9319750&do=thread&type=thread&view=me&from=space">28</a><span>主题</span></th><th><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space">1985</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=9319750&do=profile">117</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank">白苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank"><img src="data/attachment/common/b6/common_22_usergroup_icon.png" alt="" class="vm" /></a></p>
+<p class="xg1">落幕不悔。</p>
+
+<p><span id="g_up144589272" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd>
+
+        <dt>经验</dt><dd>911 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>117 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_9319750" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=9319750" name="fans_9319750">6</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9319750&amp;touid=9319750&amp;pmid=0&amp;daterange=2&amp;pid=144589272&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144589272"   id="postnum144589272" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>7</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144589272" src="/bbs_v4/images/icons/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton144589272">发表于 2015-4-29 23:04:06</em>
+<span class="pipe">|</span><span class="xg1"><a href="http://we.tm/9d6umj2" target="_blank" class="from_app">威锋客户端</a></span>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144589272">
+                            	喜欢就好，能加分更好<img src="static/image/smiley/rabbit/035.gif" smilieid="338" border="0" alt="" class="smiley" /><div class="quote"><blockquote>回7楼beewae于3 小时前发表的: 喜欢的很......</blockquote></div>
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144589272" class="cm">
+</div>
+
+<div id="post_rate_div_144589272"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144589272" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144580826" >
+<table id="pid144580826" class="plhin" summary="pid144580826" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144580826" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=2189709" target="_blank" class="xw1">beewae</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144580826" style="display:none">
+<div class="m z">
+<div id="userinfo144580826_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=2189709" target="_blank" class="xi2">beewae</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2011-1-26</dd> <dt>最后登录</dt><dd>2018-10-21</dd>
+<dt>在线时间</dt><dd>27 小时</dd> <dt>UID</dt><dd><a href="?2189709" target="_blank" class="xi2">2189709</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=2189709&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">88</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>105 </dd> <dt>人气</dt><dd>0 </dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=2189709&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144580826"><a href="home.php?mod=space&amp;uid=2189709" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/002/18/97/09_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=2189709&do=thread&type=thread&view=me&from=space">0</a><span>主题</span></th><th><a href="home.php?mod=space&uid=2189709&do=thread&type=reply&view=me&from=space">88</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=2189709&do=profile">0</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=20" target="_blank">青苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=20" target="_blank"><img src="data/attachment/common/98/common_20_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up144580826" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=2189709&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">88</a></dd>
+
+        <dt>经验</dt><dd>105 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>0 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_2189709" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=2189709" name="fans_2189709">1</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_2189709&amp;touid=2189709&amp;pmid=0&amp;daterange=2&amp;pid=144580826&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144580826"   id="postnum144580826" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>6</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144580826" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144580826">发表于 2015-4-29 19:59:40</em>
+<span class="pipe">|</span><span class="xg1"><a href="http://we.tm/9d6umj2" target="_blank" class="from_app">威锋客户端</a></span>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144580826">
+                            	喜欢的很
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144580826" class="cm">
+</div>
+
+<div id="post_rate_div_144580826"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144580826" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144558326" >
+<table id="pid144558326" class="plhin" summary="pid144558326" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144558326" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=3739382" target="_blank" class="xw1">ljlqh</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144558326" style="display:none">
+<div class="m z">
+<div id="userinfo144558326_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=3739382" target="_blank" class="xi2">ljlqh</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2011-11-27</dd> <dt>最后登录</dt><dd>2018-11-28</dd>
+<dt>在线时间</dt><dd>247 小时</dd> <dt>UID</dt><dd><a href="?3739382" target="_blank" class="xi2">3739382</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">396</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>418 </dd> <dt>人气</dt><dd>106 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=3739382&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144558326"><a href="home.php?mod=space&amp;uid=3739382" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/003/73/93/82_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=3739382&do=thread&type=thread&view=me&from=space">2</a><span>主题</span></th><th><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space">396</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=3739382&do=profile">106</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank">红苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank"><img src="data/attachment/common/3c/common_21_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up144558326" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">396</a></dd>
+
+        <dt>经验</dt><dd>418 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>106 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_3739382" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=3739382" name="fans_3739382">4</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_3739382&amp;touid=3739382&amp;pmid=0&amp;daterange=2&amp;pid=144558326&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144558326"   id="postnum144558326" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>5</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144558326" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144558326">发表于 2015-4-29 12:08:05</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144558326">
+                            	<div class="quote"><blockquote><font size="2"><a href="https://bbs.feng.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=144519701&amp;ptid=9062785" target="_blank"><font color="#999999">演绎流星 发表于 2015-4-28 18:30</font></a></font><br />
+等等压缩了再上传。</blockquote></div><br />
+谢谢兄弟！！！！！！
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144558326" class="cm">
+</div>
+
+<div id="post_rate_div_144558326"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="sign" style="max-height:200px;maxHeightIE:200px;">
+<div class="psth sign_psth"><h3><i class="sign_icon"></i><span>Signature</span></h3></div>
+<font color="DarkRed"><strong>大肚能容，容天下难容之事；开口便笑，笑天下可笑之人</strong></font><img id="aimg_O6r6E" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" src="https://bbs.feng.com/static/image/smiley/rabbit/061.gif" onmouseover="img_onmouseoverfunc(this)" onload="thumbImg(this)" border="0" alt="" /></div>
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144558326" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144519952" >
+<table id="pid144519952" class="plhin" summary="pid144519952" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144519952" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xw1">演绎流星</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144519952" style="display:none">
+<div class="m z">
+<div id="userinfo144519952_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xi2">演绎流星</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2015-1-6</dd> <dt>最后登录</dt><dd>2018-9-23</dd>
+<dt>在线时间</dt><dd>317 小时</dd> <dt>UID</dt><dd><a href="?9319750" target="_blank" class="xi2">9319750</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>911 </dd> <dt>人气</dt><dd>117 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=9319750&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144519952"><a href="home.php?mod=space&amp;uid=9319750" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/009/31/97/50_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=9319750&do=thread&type=thread&view=me&from=space">28</a><span>主题</span></th><th><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space">1985</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=9319750&do=profile">117</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank">白苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank"><img src="data/attachment/common/b6/common_22_usergroup_icon.png" alt="" class="vm" /></a></p>
+<p class="xg1">落幕不悔。</p>
+
+<p><span id="g_up144519952" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd>
+
+        <dt>经验</dt><dd>911 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>117 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_9319750" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=9319750" name="fans_9319750">6</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9319750&amp;touid=9319750&amp;pmid=0&amp;daterange=2&amp;pid=144519952&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144519952"   id="postnum144519952" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+4楼 (地板)</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144519952" src="/bbs_v4/images/icons/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton144519952">发表于 2015-4-28 18:35:35</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144519952">
+                            	<div class="quote"><blockquote><font size="2"><a href="https://bbs.feng.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=144516596&amp;ptid=9062785" target="_blank"><font color="#999999">ljlqh 发表于 2015-4-28 17:24</font></a></font><br />
+大哥，不能压缩一下么？忒多了！！！</blockquote></div><br />
+附件上传有限制，给你网盘链接<a href="http://pan.baidu.com/s/1hqKRUXQ" target="_blank">http://pan.baidu.com/s/1hqKRUXQ</a>
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144519952" class="cm">
+</div>
+
+<div id="post_rate_div_144519952"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="sign" style="max-height:200px;maxHeightIE:200px;">
+<div class="psth sign_psth"><h3><i class="sign_icon"></i><span>Signature</span></h3></div>
+<strong>人的感情就像牙齿，掉了就没了，再装也是假的。</strong></div>
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144519952" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144519701" >
+<table id="pid144519701" class="plhin" summary="pid144519701" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144519701" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xw1">演绎流星</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144519701" style="display:none">
+<div class="m z">
+<div id="userinfo144519701_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=9319750" target="_blank" class="xi2">演绎流星</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2015-1-6</dd> <dt>最后登录</dt><dd>2018-9-23</dd>
+<dt>在线时间</dt><dd>317 小时</dd> <dt>UID</dt><dd><a href="?9319750" target="_blank" class="xi2">9319750</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>911 </dd> <dt>人气</dt><dd>117 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=9319750&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144519701"><a href="home.php?mod=space&amp;uid=9319750" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/009/31/97/50_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=9319750&do=thread&type=thread&view=me&from=space">28</a><span>主题</span></th><th><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space">1985</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=9319750&do=profile">117</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank">白苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=22" target="_blank"><img src="data/attachment/common/b6/common_22_usergroup_icon.png" alt="" class="vm" /></a></p>
+<p class="xg1">落幕不悔。</p>
+
+<p><span id="g_up144519701" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9319750&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1985</a></dd>
+
+        <dt>经验</dt><dd>911 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>117 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_9319750" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=9319750" name="fans_9319750">6</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9319750&amp;touid=9319750&amp;pmid=0&amp;daterange=2&amp;pid=144519701&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144519701"   id="postnum144519701" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+3楼 (板凳)</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144519701" src="/bbs_v4/images/icons/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton144519701">发表于 2015-4-28 18:30:32</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144519701">
+                            	<div class="quote"><blockquote><font size="2"><a href="https://bbs.feng.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=144516596&amp;ptid=9062785" target="_blank"><font color="#999999">ljlqh 发表于 2015-4-28 17:24</font></a></font><br />
+大哥，不能压缩一下么？忒多了！！！</blockquote></div><br />
+等等压缩了再上传。
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144519701" class="cm">
+</div>
+
+<div id="post_rate_div_144519701"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+<div class="sign" style="max-height:200px;maxHeightIE:200px;">
+<div class="psth sign_psth"><h3><i class="sign_icon"></i><span>Signature</span></h3></div>
+<strong>人的感情就像牙齿，掉了就没了，再装也是假的。</strong></div>
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144519701" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144516596" >
+<table id="pid144516596" class="plhin" summary="pid144516596" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144516596" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=3739382" target="_blank" class="xw1">ljlqh</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144516596" style="display:none">
+<div class="m z">
+<div id="userinfo144516596_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=3739382" target="_blank" class="xi2">ljlqh</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2011-11-27</dd> <dt>最后登录</dt><dd>2018-11-28</dd>
+<dt>在线时间</dt><dd>247 小时</dd> <dt>UID</dt><dd><a href="?3739382" target="_blank" class="xi2">3739382</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">396</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>418 </dd> <dt>人气</dt><dd>106 </dd>
+</dl><div class="imicn">
+<a href="http://" target="_blank" title="查看个人网站"><img src="static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=3739382&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144516596"><a href="home.php?mod=space&amp;uid=3739382" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/003/73/93/82_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=3739382&do=thread&type=thread&view=me&from=space">2</a><span>主题</span></th><th><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space">396</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=3739382&do=profile">106</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank">红苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank"><img src="data/attachment/common/3c/common_21_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up144516596" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=3739382&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">396</a></dd>
+
+        <dt>经验</dt><dd>418 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>106 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_3739382" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=3739382" name="fans_3739382">4</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_3739382&amp;touid=3739382&amp;pmid=0&amp;daterange=2&amp;pid=144516596&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144516596"   id="postnum144516596" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+2楼 (沙发)</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144516596" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144516596">发表于 2015-4-28 17:24:58</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144516596">
+                            	<div class="quote"><blockquote><strong><font size="2">对演绎流星于2015-04-25 08:30:42在楼主发表的内容评分：</font></strong>人气:+1;<br />
+感觉好的话记得加下分顶下哇</blockquote></div>大哥，不能压缩一下么？忒多了！！！
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144516596" class="cm">
+</div>
+
+<div id="post_rate_div_144516596"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144516596" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="post_144443944" >
+<table id="pid144443944" class="plhin" summary="pid144443944" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div class="pls_panel">
+<div id="favatar144443944" class="pls favatar"><i class="pl_bg pl_arrow"></i>
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=9758613" target="_blank" class="xw1">pankun226</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo144443944" style="display:none">
+<div class="m z">
+<div id="userinfo144443944_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=9758613" target="_blank" class="xi2">pankun226</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>注册时间</dt><dd>2015-4-23</dd> <dt>最后登录</dt><dd>2016-9-28</dd>
+<dt>在线时间</dt><dd>42 小时</dd> <dt>UID</dt><dd><a href="?9758613" target="_blank" class="xi2">9758613</a></dd>
+
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9758613&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">480</a></dd> <dt>精华</dt><dd></dd>
+<dt>经验</dt><dd>480 </dd> <dt>人气</dt><dd>0 </dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=9758613&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div class="user_props">
+<div class="avatar" data-cardid="userinfo144443944"><a href="home.php?mod=space&amp;uid=9758613" class="avtm" target="_blank">
+                        <img src="https://face.feng.com/data/avatar/009/75/86/13_avatar_big.jpg" />
+                    </a></div>
+<div class="tns"><table cellspacing="0" cellpadding="0"><th><a href="home.php?mod=space&uid=9758613&do=thread&type=thread&view=me&from=space">0</a><span>主题</span></th><th><a href="home.php?mod=space&uid=9758613&do=thread&type=reply&view=me&from=space">480</a><span>帖子</span></th><td><a href="home.php?mod=space&uid=9758613&do=profile">0</a><span>人气</span></td></table></div>
+<p>级别: <em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank">红苹果</a></em></p>
+<p><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank"><img src="data/attachment/common/3c/common_21_usergroup_icon.png" alt="" class="vm" /></a></p>
+
+
+<p><span id="g_up144443944" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+
+
+<dl class="pil cl">
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=9758613&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">480</a></dd>
+
+        <dt>经验</dt><dd>480 </dd>
+        <dt>精华</dt><dd></dd>
+<dt>人气</dt><dd>0 </dd>
+
+
+
+</dl>
+
+</div>
+<ul class="xl xl2 o cl">
+                        	 <li style="text-indent:2px;width:135px;">粉丝<span  id="fans_9758613" style="margin-left:32px;display:inline-block"><a href="home.php?mod=space&amp;do=atten&amp;uid=9758613" name="fans_9758613">2</a></span></li>
+                             <li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9758613&amp;touid=9758613&amp;pmid=0&amp;daterange=2&amp;pid=144443944&amp;tid=9062785" onclick="showWindow('sendpm', this.href);" title="发消息">发消息</a></li>
+
+</ul>
+</div>
+</div>
+</td>
+<td class="pl_bg pl_bg_tl"><i class="pl_bg"></i></td>
+
+<td class="plc">
+<div class="pl_bg pl_bg_tc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pi">
+<strong>
+                                        <a href="forum.php?mod=redirect&goto=findpost&ptid=9062785&pid=144443944"   id="postnum144443944" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+1楼 (楼主)</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon144443944" src="/bbs_v4/images/icons/online_member.png" />
+<em id="authorposton144443944">发表于 2015-4-27 14:00:37</em>
+<span class="pipe">|</span>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_144443944">
+                            	谢谢分享<img src="static/image/smiley/wei_Animation/15.png" smilieid="625" border="0" alt="" class="smiley" />
+            </td></tr></table>
+
+
+
+</div>
+<div id="comment_144443944" class="cm">
+</div>
+
+<div id="post_rate_div_144443944"></div>
+</div>
+</div>
+
+</td>
+<td class="pl_bg pl_bg_tr"><i class="pl_bg"></i></td>
+</tr>
+<tr>
+<td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td>
+<td class="plc plm">
+</td>
+<td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td>
+</tr>
+<tr id="_postposition144443944" class="pl_pos_ad"><td class="pls"></td><td class="pl_bg pl_bg_ml"><i class="pl_bg"></i></td><td class="plc"></td><td class="pl_bg pl_bg_mr"><i class="pl_bg"></i></td></tr>
+<tr class="ad">
+<td class="pls"></i></td>
+<td class="pl_bg pl_bg_bl"><i class="pl_bg"></i></td>
+<td class="plc">
+<div class="pl_bg pl_bg_bc"><i class="pl_bg f_l"></i><i class="pl_bg f_r"></i></div>
+<div class="pl_ad_panel"></div></td>
+<td class="pl_bg pl_bg_br"><i class="pl_bg"></i></td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl_reply_list"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="15022f9d" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div id="pgbtn" class="pgbtn"><a href="read-htm-tid-9062785-page-2.html" class="fast_next"><span>下一页<i></i></span></a></div>
+
+
+<div class="pgs mtm mbm cl">
+<div class="pager pager_bottom">
+<div class="page_list">
+<div class="pg back_pg" ><a href="forum.php?mod=forumdisplay&amp;fid=22&amp;page=">返回列表</a></div>
+<div class="pg"><strong>1</strong><a href="forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page=2">2</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page='+this.value;; doane(event);}" /><span title="共 2 页"> / 2 页</span></label><a href="forum.php?mod=viewthread&tid=9062785&archive=5&extra=&amp;page=2" class="nxt">下一页</a></div></div>
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+var postminchars = parseInt('6');
+var postmaxchars = parseInt('320000');
+var disablepostctrl = parseInt('0');
+
+window.use_feng_captcha = 0;
+jQuery(function($){
+    $.getScript('https://captcha.feng.com/html/common.js', function(){
+        $('#fastpostform').on('submit', function(e, captcha){
+                            if (!fastpostvalidate(this, false, true)) {
+                    return false;
+                }
+                        $('#fastpostsubmit').removeAttr('disabled');
+
+            if (window.use_feng_captcha) {
+                var fengCaptcha = jQuery.fengCaptcha.takeOver();
+                var form = $(this);
+                fengCaptcha(function(captcha){
+                    form.find('input[name="feng_captcha"]').val(captcha);
+                    $('#fastpostsubmit').attr('disabled', 'true');
+                    ajaxpost('fastpostform', 'fastpostreturn', 'fastpostreturn', 'onerror', document.getElementById("fastpostsubmit"));
+                    //form.trigger('submit', captcha);
+                });
+            } else {
+                $('#fastpostsubmit').attr('disabled', 'true');
+                ajaxpost('fastpostform', 'fastpostreturn', 'fastpostreturn', 'onerror', document.getElementById("fastpostsubmit"));
+            }
+            return false;
+        });
+
+    });
+});
+
+</script>
+
+<div id="f_pst" class="pl fast_reply_panel bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=22&amp;tid=9062785&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" >
+<input type="hidden" name="feng_captcha" id="feng_captcha" value="">
+    <table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+<div class="favatar favatar2"></div>
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+<div id="ajaxwaitid_post" style="color:#D00;width:200px;"></div>
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=22&amp;tid=9062785" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="static/js/seditor.js?oBc" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login"  class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" name="formhash" value="15022f9d" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=22" class="y" target="_blank">本版积分规则</a>
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 1, 'forum.php?mod=viewthread&tid=9062785', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+//var fansnum=parseInt($('fans_'+values['fuid']).innerHTML);
+var changeObj_num=document.getElementsByName('fans_'+values['fuid']);
+var changeObj_txt=document.getElementsByName('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+for(i=0;i<changeObj_num.length;i++){
+
+changeObj_txt[i].innerHTML=	 '取消关注';
+changeObj_txt[i].parentNode.className="cancelfw";
+changeObj_num[i].innerHTML=parseInt(changeObj_num[i].innerHTML)+1;
+changeObj_txt[i].style.display='';
+changeObj_txt[i].href = 'home.php?mod=spacecp&ac=attention&op=del&fuid='+values['fuid'];
+}
+
+} else if(values['type'] == 'del') {
+for(i=0;i<changeObj_num.length;i++){
+changeObj_txt[i].innerHTML=	'关注TA';
+if(changeObj_txt[i].id==1){
+changeObj_txt[i].parentNode.className="mutualfw";
+}else{
+changeObj_txt[i].parentNode.className="addflw";
+}
+if(parseInt(changeObj_num[i].innerHTML)-1<0){
+changeObj_num[i].innerHTML=0;
+}else{
+changeObj_num[i].innerHTML=parseInt(changeObj_num[i].innerHTML)-1;
+}
+changeObj_txt[i].style.display='';
+changeObj_txt[i].href  = 'home.php?mod=spacecp&ac=attention&op=add&hash=15022f9d&fuid='+values['fuid'];
+}
+}
+}
+</script>
+
+<script type="text/javascript">
+//客户端APP QR
+jQuery(function($){
+    $.getJSON("https://bbsanalytics.weiphone.net/interact.php?jsoncallback=?",{ tid:9062785});
+var qrTimer, qrPanel, prevQrTarget, shell = $('#postlist');
+function hideQrPanel(){
+if(qrPanel){
+clearTimeout(qrTimer);
+qrTimer = setTimeout(function(){
+qrPanel.hide();
+}, 240);
+}
+}
+function showQrPanel(target){
+clearTimeout(qrTimer);
+prevQrTarget = $(target);
+qrTimer = setTimeout(function(){
+if(!qrPanel){
+qrPanel = $(document.createElement('div'));
+qrPanel.html('<img src="'+ STATIC_DIR +'images/app_qr_code.png" height="130" width="130" alt="威锋网客户端" /><span>扫描二维码下载</span>');
+//qrPanel.html('<img src="'+ STATIC_DIR +'images/mobile_code.png" height="130" width="130" alt="威锋网客户端" /><span>扫描二维码下载</span>');
+qrPanel.addClass('app_qr_pop').hide().appendTo('body');
+qrPanel.bind('mouseenter mouseleave', function(e){
+e.type === 'mouseenter' ? showQrPanel(prevQrTarget) : hideQrPanel();
+});
+}
+var offset = prevQrTarget.offset();
+qrPanel.css({
+left: offset.left - 20,
+top: offset.top + prevQrTarget.height(),
+display: 'block'
+});
+}, 160);
+}
+shell.delegate('a.from_app', 'mouseenter mouseleave', function(e){
+e.type === 'mouseenter' ? showQrPanel(this) : hideQrPanel();
+});
+});
+</script>	</div>
+<!-- Fengbuy Rec Products -->
+<div class="store_products_wrap"><div id="store_products" class="hide"></div></div>
+<script type="text/javascript">
+//商城推荐商品
+    /*
+jQuery.ajax({
+url: "https://www.fengbuy.com/recommend-new.js?t="+$.now,
+dataType: "script",
+cache: false
+}).done(function() {
+
+});
+    */
+</script>
+    <!-- Footer -->
+
+    <div class="footer_box">
+<div class="footer_inner">
+<div class="wrap clearfix">
+<div class="footerLeft"> <i>Hi~我是威威！</i> <img src="bbs_v4/images/weiwei.png"> </div>
+<div class="footerRight">
+<div class="ours_links">
+<a href="https://www.feng.com/app/about_us.html" target="_blank">关于我们</a>
+<a href="https://www.feng.com/app/contact_us.html" target="_blank">联系我们</a>
+<!--<a href="https://www.feng.com/app/cooperation_media.html" target="_blank">商务合作</a>-->
+<a href="https://www.feng.com/app/history_evens.html" target="_blank">大事记</a>
+<a href="https://www.feng.com/app/egal.html" target="_blank">法律条款</a>
+<a href="https://www.feng.com/app/about_us_english.html" target="_blank">About Us</a>
+</div>
+<div class="beian">
+<p>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502001011" target="_blank">粤公网安备 44030502001011号</a> 丨 粤ICP备07011435号-10 丨 新三板上市公司威锋科技（836555）</p>
+<p>增值电信业务经营许可证：
+<a href="https://www.feng.com/about/certificate.shtml" target="_blank">粤B2-20130239</a>
+<a href="https://www.feng.com/about/Guangdong_wangwen_20140683-283_No._594914.shtml">粤网文（2017）6454-1554号</a> Powered by Discuz!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="touch">
+<div class="wrap">
+<a href="https://bbs.feng.com/forum.php?mod=viewthread&tid=9062785&extra=page&page=1&mobile=2" target="_blank">触屏版</a>
+<p>Copyright 2007-2017 © Joyslink Inc. All rights reserved 保留所有权利</p>
+</div>
+</div>
+</div>
+
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_30092183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30092183' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<!-- Quick Links -->
+<div class="quick_links_wrap">
+<div id="quick_links" class="quick_links"><a href="/forum.php?mod=viewthread&tid=9062785&extra=page%3D&page=1#top" id="return_top" class="return_top"><span>返回顶部</span></a></div>
+</div>
+<script type="text/javascript">
+//搜索
+jQuery(function($){
+var
+shell = $('#search_box'),
+showInfo = window.showDialog || alert;
+
+//切换
+var typePanel = shell.find('.field_panel').eq(0);
+shell.delegate('.type_panel em', 'click', function(e){
+var currClassName = typePanel[0].className, cName = this.className;
+if(currClassName.indexOf(cName) < 0){
+typePanel[0].className = 'field_panel curr_' + cName;
+shell.find('.' + cName + '_sch input[type=text]').eq(0).focus();
+setcookie('use_google_sch', cName === 'google' ? 1 : 0, cName === 'google' ? 86400 * 30 : -1);
+//setcookie('use_owner_sch', cName === 'owner' ? 1 : 0, cName === 'owner' ? 86400 * 30 : -1);
+}
+});
+
+//Clear & submit
+shell.delegate('form', 'submit', function(e){
+var field = $(this).find('input[type=text]');
+if(field.val() == ''){
+//showInfo('请输入搜索关键字！');
+            //return false;
+            field.val('苹果教育优惠2017');
+            jQuery('#scbar_form').submit();
+            field.val('');
+            return false;
+}
+})
+.delegate('input[type=text]', 'keyup', function(){
+var self = $(this), clearBtn = self.data('clearBtn');
+if(!clearBtn){
+clearBtn = self.next('.clear');
+self.data('clearBtn', clearBtn);
+clearBtn.data('target_field', self);
+}
+clearBtn[this.value != '' ? 'show' : 'hide']();
+})
+.delegate('i.clear', 'click', function(){
+var field = $(this).data('target_field');
+if(field){
+this.style.display = '';
+field.val('').focus();
+}
+});
+
+//类别
+shell.delegate('.type_list', 'mouseenter', function(){
+$(this).addClass('active');
+})
+.delegate('.type_list', 'mouseleave', function(){
+$(this).removeClass('active');
+})
+.delegate('.type_list span', 'click', function(){
+var panel = $(this.parentNode).removeClass('active');
+
+if(this.className.indexOf('current') < 0){
+panel.find('span.current').html(this.innerHTML);
+
+var
+field = $('#scbar_mod').val(this.getAttribute('data-type')),
+form = field[0] && field[0].form;
+form && $('input[type=text]', form).focus();
+}
+});
+
+//autocomplete---
+/*
+setTimeout(function(){
+$.getScript('https://s.feng.com/tpl/js/localdata/localdata_thread.js', function(){
+var cities = window.cities;
+if(!cities || cities.length <= 0){ return; }
+
+$.getScript('https://s.feng.com/tpl/js/jquery.autocomplete.min.js', function(){
+$('#scbar_txt').autocomplete(cities, {
+max: 12,
+width: 332,
+minChars: 1,
+scrollHeight: 300,
+matchContains: true,
+autoFill: false
+})
+.result(function(e, data){
+$('#scbar_form').submit();
+});
+});
+});
+}, 320);
+*/
+setTimeout(function(){
+$.getScript('https://s.feng.com/static/js/jquery.autocomplete.min.ajax.js', function(){
+            $('.form-submit').each(function(){
+                var form = $(this);
+                form.find('.open').autocomplete('https://s.feng.com/api/autocomplateajax/index.html', {
+                    max: 12,
+                    minChars: 1,
+                    width: 180,
+                    scrollHeight: 300,
+                    matchContains: true,
+                    autoFill: false,
+                    dataType: 'jsonp',
+                    extraParams: {
+                        searchtype: 'thread' 	//应用类型
+                    },
+                    parse: function(rdata){
+                        var rows = [];
+                        for(var i=0; i<rdata.length; i++){
+                            rows[i] = {
+                                data: rdata,
+                                value: rdata[i],
+                                result: rdata[i]
+                            };
+                        }
+                        return rows;
+                    }
+                }).result(function(event, data, formatted){
+                    form.submit();
+                });
+            });
+    $('#scbar_txt').autocomplete('https://s.feng.com/api/autocomplateajax/index.html',{
+max: 12,
+minChars: 1,
+width: 282,
+scrollHeight: 300,
+matchContains: true,
+autoFill: false,
+dataType: 'jsonp',
+jsonp: "callback",
+extraParams: {
+searchtype: 'thread'
+},
+parse: function(rdata){
+var rows = [];
+for(var i=0; i<rdata.length; i++){
+rows[i] = {
+data:rdata,
+value:rdata[i],
+result:rdata[i]
+};
+}
+return rows;
+}
+}).result(function(event, data, formatted) {
+$("#scbar_form").submit();
+            });
+
+            $('#keyword').autocomplete('https://www.google-ch.com/api/autocomplateajax/index.html?searchtype=all&q=大主宰',{
+max: 12,
+minChars: 1,
+width: 282,
+scrollHeight: 300,
+matchContains: true,
+autoFill: false,
+dataType: 'jsonp',
+jsonp: "callback",
+extraParams: {
+searchtype: 'all'
+},
+parse: function(rdata){
+var rows = [];
+for(var i=0; i<rdata.length; i++){
+rows[i] = {
+data:rdata,
+value:rdata[i],
+result:rdata[i]
+};
+}
+return rows;
+}
+}).result(function(event, data, formatted) {
+$("#scbar_google_form").submit();
+});
+});
+},320);
+$.ajax({
+url:'/api/onlinetimaAjax.php',
+type: 'POST',
+data:{},
+dataType: 'text',
+timeout: 1000,
+success: function(result){
+if(result=='isrl'){
+$.get('https://passport.feng.com/?r=sso/LogoutAjax',function(json){},'jsonp');
+}
+}
+});
+
+
+
+
+
+
+});
+</script></body></html>
